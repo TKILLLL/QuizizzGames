@@ -1,0 +1,23 @@
+Con bò có mấy chân?
+A. 1 chân
+B. 2 chân
+C. 3 chân
+*D. 4 chân
+
+Con mèo kêu như thế nào?
+A. Gâu gâu
+*B. Meo meo
+C. Ò ó o
+D. Ẳng ẳng
+
+Con chó kêu như nào?
+*A. Gâu gâu
+B. Meo meo
+C. Ò ó o
+D. Ẳng ẳng
+
+Con gà kêu như nào?
+A. Gâu gâu
+B. Meo meo
+*C. Ò ó o
+D. Ẳng ẳng
